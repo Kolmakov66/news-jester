@@ -1,0 +1,14 @@
+﻿<!doctype html>
+<html lang="ru">
+<head><meta charset="utf-8"><title>News Jester — архив</title>
+<style>body{font:16px/1.6 system-ui,sans-serif;background:#faf6ee;color:#2b2b2b;max-width:640px;margin:40px auto;padding:0 16px}
+a{color:#e07a5f;font-weight:600;text-decoration:none}li{margin:6px 0}</style></head>
+<body>
+<h1>🃏 News Jester</h1>
+<p>Сатирический дайджест новостей, сгенерированный ИИ-агентами.</p>
+<h2>Выпуски</h2>
+<ul>
+{% for d in issues %}<li><a href="{{ d }}/">Выпуск от {{ d }}</a></li>
+{% endfor %}</ul>
+</body>
+</html>

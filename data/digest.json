@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-09",
+  "items": [
+    {
+      "id": "cf5d4e083cd2f3987c44adf3834efc0b",
+      "fun_title": "«Ram Altman доносит главе OpenAI о простаивающей памяти»",
+      "body": "Выпущен открытый скрипт Ram Altman. Он собирает данные о простаивающей оперативной памяти на ПК пользователя и отправляет их главе OpenAI на электронную почту. Любой может запустить скрипт и тем самым сообщить руководству, сколько гигабайт ничего не делают. Код проекта в открытом доступе. Конфиденциальность теперь включает в себя и ваш неиспользуемый ОЗУ — он тоже знает только одного получателя. Скрипт работает тихо, как доносчик из старого фильма.",
+      "source": "habr.com",
+      "url": "https://habr.com/ru/news/1105096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105096",
+      "image_prompt": "A computer case weeping digital tears while a paper airplane carrying memory chips flies toward a tall glass office building"
+    },
+    {
+      "id": "bca6aff9db916a245311624f66193a18",
+      "fun_title": "«Карманный ПК с Intel Arc G3 Extreme и клавиатурой под экраном»",
+      "body": "GPD готовит выпуск Win Mini Ultra — компактного игрового ПК в раскладном корпусе. Устройство получит графику Intel Arc G3 Extreme. Экран откидывается как у маленького ноутбука, под ним — физическая клавиатура, по бокам — стики, крестовина и игровые кнопки. Можно использовать как портативную консоль или как мини-ПК с Windows. Играть на таком можно хоть в метро, хоть в очереди. Полноценный анонс ожидается в ближайшее время.",
+      "source": "habr.com",
+      "url": "https://habr.com/ru/companies/selectel/news/1105100/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105100",
+      "image_prompt": "A tiny open clamshell device with joysticks growing from its sides like crabs, miniature screen winking above a keyboard"
+    },
+    {
+      "id": "2745cc15df08e0c7e9b1a8973ac4f1c1",
+      "fun_title": "«Машинка «Baby Shark» на Raspberry Pi с 48 клавишами и без уведомлений»",
+      "body": "Разработчик Ун Кю Ли собрал Micro Journal Rev.2.1.mini — карманную машинку для набора текста на Raspberry Pi Zero 2 W. Это маленький Linux-компьютер с механической клавиатурой и вытянутым экраном, созданный для работы без уведомлений и вкладок браузера. Новая версия зовётся Baby Shark. Экран 7,84 дюйма, разрешение 1280 × 400, клавиатура из 48 клавиш с переключателями Cherry MX. Отдельный Raspberry Pi Pico отвечает за работу клавиатуры.",
+      "source": "habr.com",
+      "url": "https://habr.com/ru/companies/selectel/news/1105092/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105092",
+      "image_prompt": "A vintage typewriter with a shark fin on top, small circuit board peeking inside, blank paper sheet rolling from the roller"
+    }
+  ]
+}

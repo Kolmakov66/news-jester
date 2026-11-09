@@ -2,14 +2,19 @@
   "$schema": "https://opencode.ai/config.json",
   "command": {
     "digest": {
-      "description": "Фаза 1: собрать сатирический дайджест из 3 новостей в Markdown",
+      "description": "Фаза 2: выпуск с карикатурами и web-страницей",
       "agent": "jester",
-      "template": "Собери выпуск фазы 1 по своему workflow. После рерайта сделай самопроверку: сверь каждую цифру и имя в digest.md с data/news.json, перечисли расхождения (их должно быть ноль) и только потом показывай результат."
+      "template": "Собери выпуск по своему workflow фазы 2. После записи digest.json, но ДО gen_image.py, выведи digest.json в чат для визуальной проверки тона. Затем gen_image.py, build_page.py, превью-ссылка."
+    },
+    "publish": {
+      "description": "Опубликовать выпуск на GitHub Pages",
+      "agent": "jester",
+      "template": "Выполни: git add docs data/digest.json && git commit -m \"digest <дата выпуска>\" && git push. Возьми URL сайта из remote и проверь, что страница отдаёт 200 (curl -s -o nul -w \"%{http_code}\" URL)."
     },
     "retone": {
-      "description": "Переписать те же 3 новости в новом тоне (тюнинг стиля без fetch)",
+      "description": "Переписать те же новости в новом тоне (без fetch и картинок)",
       "agent": "jester",
-      "template": "fetch_news.py НЕ запускай. Возьми те же 3 новости, что в текущем output/YYYY-MM-DD/digest.md (сверь по url), и перепиши их в тоне: $1. Перезапиши digest.md, поверх старого ничего не удаляя из истории git."
+      "template": "fetch и gen_image НЕ запускай. Возьми items текущего data/digest.json, перепиши fun_title/body в тоне: $1. image_prompt не меняй. Перезапиши digest.json и запусти build_page.py."
     }
   }
 }
