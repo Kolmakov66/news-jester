@@ -1,29 +1,29 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-13",
   "items": [
     {
-      "id": "776eef348faa076dc8a414e8ab6236b5",
-      "fun_title": "«30 FPS — это норма»: фанаты встали на защиту Rockstar за GTA 6",
-      "body": "После свежего трейлера Grand Theft Auto 6 стало ясно: на современных консолях игра будет работать в режиме 30 кадров в секунду. В эпоху 60 FPS и выбора между качеством и производительностью блокбастер в 30 кадров мог бы показаться катастрофой. Однако эксперты и преданные фанаты взяли решение Rockstar под свою защиту. Кажется, теперь низкий фпс — это не баг, а философия. Готовимся наслаждаться кинотеатральной плавностью в городских приключениях.",
+      "id": "0fb41ad6f88a97fe7f6105ad225ae653",
+      "fun_title": "«Red Hat Enterprise Linux 10.3 под кодовым именем Coughlan»",
+      "body": "Компания Red Hat выпустила обновление Red Hat Enterprise Linux 10.3 под кодовым названием Coughlan на базе ядра Linux 6.12 LTS. Предыдущий релиз RHEL 10 вышел в мае 2025 года, а версия 9 — ещё в мае 2022 года. Сборка RHEL 10.2 появилась в мае 2026 года. Минорные обновления теперь выходят чаще, чем успевают устареть кодовые названия. Системные администраторы готовятся к очередной пересборке серверов под новым coughlan-ом.",
       "source": "habr.com",
-      "url": "https://habr.com/ru/companies/ggsel/articles/1106528/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106528",
-      "image_prompt": "A video game controller with one joystick moving in slow motion, TV screen showing choppy frames, crowd of fans cheering with foam fingers"
+      "url": "https://habr.com/ru/articles/1107248/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107248",
+      "image_prompt": "A server rack with a thermometer showing fever, penguin wearing a red hat holding a tissue, steam rising from the servers"
     },
     {
-      "id": "382631ea10878e658e99204c6f3124b6",
-      "fun_title": "«Airbus A350–1000ULR»: 24 часа 24 минуты в воздухе без посадки",
-      "body": "Самолёт Airbus A350–1000ULR попал в Книгу рекордов Гиннесса за самый дальний беспосадочный перелёт в истории коммерческой авиации. За 24 часа 24 минуты он преодолел 23 155,6 км из Мельбурна в Тулузу. Пассажирам, вероятно, больше не нужен был отпуск — они и так провели сутки в полёте. Экипаж, вероятно, выучил все фильмы на борту наизусть. Новый стандарт комфорта: лететь дольше, чем привыкать к креслу.",
+      "id": "324589611e0cde7ed85aedc8070fe66e",
+      "fun_title": "«UFO Hosting обогнал Timeweb по приходам сайтов»",
+      "body": "У небольшого UFO Hosting в выборке всего 42 сайта. За последний месяц зафиксировали 17 приходов — это 40% от текущего наблюдаемого парка. А у Timeweb, крупнейшего хостинга в выборке с почти 10 тысячами сайтов, — всего 10 приходов. Малый игрок обошёл гиганта по притоку. Если бы у UFO Hosting было столько же сайтов, рунет бы уже переехал на неопознанные летающие объекты.",
       "source": "habr.com",
-      "url": "https://habr.com/ru/articles/1106478/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106478",
-      "image_prompt": "An airplane flying in a perfect circle around the globe, trailing smoke in the shape of a clock face, small suitcase orbiting the plane like a moon"
+      "url": "https://habr.com/ru/articles/1107302/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107302",
+      "image_prompt": "A tiny flying saucer beaming up websites from a server farm, giant hosting company building looking small next to the UFO"
     },
     {
-      "id": "909459fea66f0167c656070771357525",
-      "fun_title": "Apple закрывает сообщество поддержки AppleCare с 20 ноября",
-      "body": "Apple предупредила пользователей о закрытии сообщества поддержки AppleCare (AppleCare Support Community) с 20 ноября 2026 года. Это официальная платформа, где люди помогают друг другу решать проблемы и делятся советами. Теперь пользователям придётся искать поддержку в другом месте или обращаться в службу за деньги. Communauté уходит в небытие, а с ней — и век взаимопомощи между владельцами iPhone. Впереди платная консультация и тишина форумов.",
+      "id": "0e4b2c72882b794aedb8c9443ab3e67a",
+      "fun_title": "«Память и видеокарты дорожают уже год из-за кризиса памяти»",
+      "body": "Комплектующие уже год как дорожают из-за кризиса памяти. Рынки оперативной памяти и видеокарт растут в цене, и consumers смотрят на это узким заплаканным взглядом. Конец безумия пока не наступил. Те, кто откладывал покупку видеокарты «после падения цен», теперь ждут его уже двенадцать месяцев подряд. Успеть купить до следующего подорожания — единственная стратегия, которая ещё работает.",
       "source": "habr.com",
-      "url": "https://habr.com/ru/articles/1106526/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106526",
-      "image_prompt": "A forum thread turning into crumpled paper, phone icons looking at an empty chair, date stamp 2026-11-20 fading like a receipt"
+      "url": "https://habr.com/ru/articles/1107286/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107286",
+      "image_prompt": "A memory chip with a price tag growing like a balloon, PC parts floating upward like balloons, crying face reflected in a graphics card cooler"
     }
   ]
 }
